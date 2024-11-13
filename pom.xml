@@ -402,6 +402,12 @@
       <artifactId>spring-boot-properties-migrator</artifactId>
       <scope>runtime</scope>
     </dependency>
+
+    <dependency>
+      <groupId>org.owasp.encoder</groupId>
+      <artifactId>encoder</artifactId>
+      <version>1.3.0</version>
+    </dependency>
   </dependencies>
 
   <repositories>
